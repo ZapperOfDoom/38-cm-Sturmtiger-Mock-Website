@@ -1,0 +1,27 @@
+header img.logo {
+    width: 400px;
+    height: 280px;
+}
+
+header {
+    background-color: grey;
+    min-height: 50px;
+    padding: 5px;
+    text-align: center;
+
+} 
+
+#Table_Of_Contents {
+    border: solid 3px black;
+    padding: 5px;
+}
+
+#Two_Img {
+    width: 250px;
+    height: 250px;
+}
+
+section h2.Paragraph {
+    border: solid 3px black;
+    padding: 5px;
+}

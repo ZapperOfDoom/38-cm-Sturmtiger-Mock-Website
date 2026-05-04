@@ -25,3 +25,11 @@ section h2.Paragraph {
     border: solid 3px black;
     padding: 5px;
 }
+
+h4 {
+    line-height: 1.75em;
+}
+
+#Fourth_Paragraph {
+    column-height: 8px;
+}
